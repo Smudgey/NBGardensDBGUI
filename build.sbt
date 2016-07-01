@@ -1,4 +1,4 @@
-name := "CSV GUI"
+name := "DB GUI"
 
 version := "1.0"
 
